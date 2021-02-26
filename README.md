@@ -2,7 +2,7 @@
 
 # Active record practice
 
-> This project is part of the Microverse Ruby curriculum.
+> This project is part of the Microverse Rails curriculum.
 
 This project was made for learning proposes, to practice the way of how Rails handles data with Active Record. It lets you structure your data models for your users, blog posts, comments, followers, etc.
 
